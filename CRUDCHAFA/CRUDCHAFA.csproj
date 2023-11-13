@@ -68,6 +68,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="default.aspx" />
+    <Content Include="IMG\deshacer%281%29.png" />
+    <Content Include="IMG\eliminar.png" />
+    <Content Include="IMG\error.png" />
+    <Content Include="IMG\marco%281%29.png" />
     <Content Include="Pages\Create.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
